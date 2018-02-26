@@ -4,6 +4,7 @@ from cgi import escape
 
 import markdown
 import markdown.extensions.fenced_code
+import string 
 
 from cache import fetch
 
